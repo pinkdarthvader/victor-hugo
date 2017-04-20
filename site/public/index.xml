@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>https://hugo-pauline-playpen.netlify.com/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2017 10:05:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://hugo-pauline-playpen.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>product</title>
+      <link>https://hugo-pauline-playpen.netlify.com/product/</link>
+      <pubDate>Thu, 20 Apr 2017 10:05:10 +0800</pubDate>
+      
+      <guid>https://hugo-pauline-playpen.netlify.com/product/</guid>
+      <description> What did you think of our service during the time you used it? Be honest! “it sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;) </description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://hugo-pauline-playpen.netlify.com/contact/</link>
+      <pubDate>Wed, 19 Apr 2017 21:23:49 +0800</pubDate>
+      
+      <guid>https://hugo-pauline-playpen.netlify.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://hugo-pauline-playpen.netlify.com/about/</link>
+      <pubDate>Wed, 19 Apr 2017 21:23:44 +0800</pubDate>
+      
+      <guid>https://hugo-pauline-playpen.netlify.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>q2</title>
+      <link>https://hugo-pauline-playpen.netlify.com/q2/</link>
+      <pubDate>Wed, 19 Apr 2017 14:40:04 +0800</pubDate>
+      
+      <guid>https://hugo-pauline-playpen.netlify.com/q2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ranking</title>
+      <link>https://hugo-pauline-playpen.netlify.com/ranking/</link>
+      <pubDate>Wed, 19 Apr 2017 14:26:12 +0800</pubDate>
+      
+      <guid>https://hugo-pauline-playpen.netlify.com/ranking/</guid>
+      <description>Favorite things to do Favorite things to do ranked from 1-5. 1 being the best. I found it really hard to pick because I remember doing all of this in my previous job and found tasks interesting and boring depending on the situation.
+ Help train and onboard new support teammates Debug a customer&amp;rsquo;s build using a programming language and framework that you&amp;rsquo;ve never seen before Work with people to figure out if Netlify&amp;rsquo;s service can solve a particular workflow or integration challenge they have Deliver a talk to many people you don&amp;rsquo;t know at a conference or meetup Help manage communications during a service outage  Least Favorite  Respond to 60+ support requests via email or chat every day.</description>
+    </item>
+    
+  </channel>
+</rss>
